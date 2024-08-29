@@ -2,6 +2,12 @@
 
 🎯 *Data Analyst | Problem Solver | Curious Mind*
 
+```sql
+SELECT insights
+FROM data
+WHERE complexity = 'high'
+AND value = 'actionable';
+```
 🔍 Passionate about transforming raw data into actionable insights. I love diving into datasets, finding patterns, and making sense of numbers to drive smart decisions.
 
 💡 *Skills I bring to the table:*
