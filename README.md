@@ -24,4 +24,4 @@ AND value = 'actionable';
 - [Twitter](https://x.com/jake_epia)
 - [Email](jakeepia@gmail.com)
 
-![Visitor's Badge](https://komarev.com/ghpvc/?username=jakeepia&style=flat-square)
+
