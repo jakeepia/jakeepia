@@ -17,7 +17,7 @@ AND value = 'actionable';
 
 🚀 Always eager to take on new challenges and contribute to impactful projects!
 
-🎮 Finds relaxation in playing eFootball, enjoying the strategy and unexpected turns of the game—much like in data analysis.
+🎮 Finds relaxation in playing eFootball, enjoying the strategy and unexpected turns of the game — much like in data analysis.
 
 🔗 *Let’s connect!*
 - [LinkedIn](https://www.linkedin.com/in/jacob-epia/)
