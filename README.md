@@ -22,5 +22,6 @@ AND value = 'actionable';
 🔗 *Let’s connect!*
 - [LinkedIn](https://www.linkedin.com/in/jacob-epia/)
 - [Twitter](https://x.com/jake_epia)
+- [Email](jakeepia@gmail.com)
 
 ![Visitor's Badge](https://komarev.com/ghpvc/?username=jakeepia&style=flat-square)
